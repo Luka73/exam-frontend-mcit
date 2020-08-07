@@ -1,0 +1,14 @@
+.input-box {
+    margin-bottom: 10px;
+}
+
+.input-box label {
+    font-weight: bold;
+    display: inline-block;
+    width: 140px;
+    text-align: right;
+}
+
+button {
+    padding: 5px 20px;
+}
